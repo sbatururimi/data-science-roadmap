@@ -29,3 +29,6 @@ The purpose of this roadmap is to give you an overview of the core skills needed
     * [Andrew Ng's Machine Learning class on Coursera](https://www.coursera.org/learn/machine-learning) or an old version can be found [here](https://github.com/zipfian/data-science-primer/tree/master/resources/coursera_ml)
 
 ## Successful Paths contributed by data scientists
+
+## Neural networks architectures
+![nn architectures](./42e0ec9c3f8b4f6db5af62b8330a4a7f.png)
